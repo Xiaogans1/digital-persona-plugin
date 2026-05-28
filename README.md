@@ -1,7 +1,7 @@
-# 数字人格
+# Digital Persona
 
-这个仓库用于维护数字人格项目。
+This repository is used to maintain the digital persona project.
 
-## 目录说明
+## Directory Guide
 
-项目内容可以按模块逐步补充到本仓库中。
+Project content can be added to this repository gradually by module.
